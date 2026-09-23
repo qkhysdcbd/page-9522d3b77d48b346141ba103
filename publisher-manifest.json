@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "08220f73e3c47e1f7077ea9b",
+  "owner": "qkhysdcbd",
+  "repo": "page-9522d3b77d48b346141ba103",
+  "title": "容器(iHax)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9522d3b77d48b346141ba103",
+      "a": "容器(iHax)",
+      "b": "稳定全球clash加速器",
+      "entity": "容器(iHax)",
+      "brand": "容器(iHax)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0eec304562ae8abedd19d8d7f52ca941cf80591541ed6dc4442fa5a39fc8d4b0",
+      "content": {
+        "primary_entity": "容器(iHax)",
+        "keyword1": "容器(iHax)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅导入方式各有不同。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "从当前设备出发，挑选匹配的订阅方案，让网络连接更顺畅。",
+          "AI_CLOSING_TITLE": "选对方案，连接更稳",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，提供基础版、旗舰版与团队版三档方案，月付与年付均可选，满足个人多设备与团队共享的不同需求。",
+          "AI_FEATURES_INTRO": "从流量额度到设备数量，按实际使用场景快速定位合适档位。",
+          "AI_FEATURES_TITLE": "套餐与设备说明",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量与 3 台设备，适合轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线对游戏与高频使用更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，企业定制路由与专属客户经理支持。",
+          "AI_FEATURE_TITLE_1": "轻量设备方案",
+          "AI_FEATURE_TITLE_2": "进阶多设备方案",
+          "AI_FEATURE_TITLE_3": "团队共享方案",
+          "AI_GUIDE_INTRO": "从选套餐到客户端配置，三步完成订阅接入。",
+          "AI_GUIDE_TITLE": "订阅上手三步",
+          "AI_HERO_INTRO": "容器(iHax)为不同设备提供灵活的全球加速订阅，按流量与设备数量划分基础版、旗舰版与团队版，兼顾个人轻量使用与团队多设备共享，月付或年付均可快速开通。",
+          "AI_HERO_SUBTITLE": "灵活订阅，多设备适配",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "月付与年付周期自由选择",
+          "AI_HIGHLIGHT_3": "覆盖常见桌面与移动客户端",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内轻量使用，旗舰版覆盖 5 台设备与专线优化，团队版支持 20 台设备共享。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，从基础版、旗舰版或团队版中确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与流量额度，确认当前设备是否在支持范围内。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅地址，完成连接配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "容器(iHax)多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台以内设备、月流量 100GB 以内的个人用户；旗舰版适合 5 台设备、需要游戏加速或流媒体解锁的用户；团队版适合 20 台设备、月流量 1000GB 以内的小型团队。",
+          "AI_FAQ_ANSWER_2": "在同一时间可以分别在 3 台、5 台或 20 台设备上使用，具体取决于所选套餐。如果多设备同时使用，建议选择设备数更高的套餐。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算。",
+          "AI_FAQ_ANSWER_4": "不同客户端配置方式略有差异，请参考对应客户端的文档完成订阅导入。通常需要复制订阅链接，在客户端中选择从剪贴板导入或手动添加。",
+          "AI_FAQ_ANSWER_5": "套餐内的流量和权益在计费周期内有效，超出流量可能需要升级套餐或等待下一个周期。具体可在购买前查看所选套餐说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "支持按年付吗？",
+          "AI_FAQ_QUESTION_4": "如何配置订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ahiyrhr.cn",
+    "host": "ahiyrhr.cn"
+  },
+  "file_hashes": {
+    "index.html": "a503b7073226173db6520809ba126a29c648735d16fe8928567a4e7ce30e16f5",
+    "sitemap.xml": "6ccfba5092c3d2b0b5d0fafcc29b5a1b22e91504734b2ab34ea8de4ff877535b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d7116d16eac4721e3d7c48c3b811c342037d8bb905e2fc5bc9548fe45ad65570",
+    "robots.txt": "0d2840446bff65e05dbdac92c2b2b8dec5f4a032e01644923fe7112016c1145f",
+    "41f7d63aa605908950e48b2d1c3f8548.txt": "f041c98cc1e761f8d1ae92dcd113a745e55408c2d81cf4ebcf6337d8f4e9032e"
+  },
+  "revision": "92bfa7aeb839821934b5a4526c468d948b4518f8677e76d8633f42d4df0caa69"
+}
